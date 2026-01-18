@@ -1,3 +1,5 @@
+Direct Excel Dashboard Link - https://1drv.ms/x/c/22e0deb70fdd5ccd/IQAMSiM1l4UhSInZgE0hiq50AfVR1dumvG8QfSor5sLAlx0?e=6vQIMk
+
 # 👥 HR Analytics Dashboard using Excel
 
 ## 📖 Project Overview
